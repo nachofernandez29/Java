@@ -1,4 +1,3 @@
-
 public class Cliente {
 	//Atritbutos
 	private int id;
